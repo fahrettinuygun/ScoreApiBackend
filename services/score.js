@@ -11,7 +11,7 @@ module.exports.get = async function(id,name,surname,phone,city,income){
         let cityScore;
         let incomeFactor;
         let score;
-        let response = {success,message,data};
+        let response = {success: false, message: "", data:null}
         // bir cache dbsinin olduğu varsayılarak önce cacheden okumaya çalıştım
         try {
             cacheDB.forEach(cache => {
@@ -50,7 +50,8 @@ module.exports.get = async function(id,name,surname,phone,city,income){
                 score = segment * incomeFactor + cityScore;
                 // sonucu cache ekledim
                 cacheDB.push({id:id,city:city,segment:segment,cityScore:cityScore,income:income,incomeFactor:incomeFactor, score:score})
-                response.message = 'Calculated Score'
+                response.message = 'Calculated Score';
+                response.data = score;
             }
         }
       resolve(response);
