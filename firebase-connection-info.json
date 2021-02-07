@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "findmydoctorapp",
+  "private_key_id": "8a89343b69abaefde1a180c13ed6bcf54f6d161b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDULJfU6jYiHKpW\nWkfZyY554efN9U6YUUnb1b97SSSh5exqA17hdGpt1RkKLTAD8/aSZr4Y3rSQBzfL\n/1Uc7zuHSzwZHLn9ygv3IuXamDxGbpHeTZ7gMl5U9DbQdOuFePDc0lcHkZzITTds\nV1hX9yv2ntMpFgp6jRNsN/8Ps3wPhSSqk4YmbY0T+kCjrAju9cYmd3ppiO6v8YPh\nV0xX8SIF6VWyctYhqDsX5tWIeMU9A/ywrs+14Ck4Ws43DOyQU+Rr4I614JVtnLdH\nFDhacoeLHPpzdLrnXQ5y+sFGjbETSQg0tQGV5G7x1dmfUbTX47zR554k5JczT1TP\nqRCcmWmrAgMBAAECggEAOodUmOTE6xMKQAjmgiLyHRgeqDdvp1/hJnXnvNwX8Vsq\nJLJqVXoWM9cRcbe2Y5jEX21dKiIhIAwFrc3xDirGOpOb7/d3LRWzyEhFrM/K7Mjq\njy7NUV5DnF7D0iw2nhqXIusZG9rkq3J1g/ryQU3LQFxetppAaL8K6RLnVs71vZfF\nsWWvWKHwjPRsgYkbO+cG+it437Ov4kBYyFRj/3pzaZOIEpesDSyJ636njSm4ZPYR\niGAofGPIDPbR27QRm3ncEcrT9NsVjwxxAXhtxkokJkOCBzJ9ZYTmabiZInumb4cr\nj0QySbq5A9kmwb9bEq1cqPtOOSRwowsvgJ7cZBc6VQKBgQDyFyhc5TlDYC6K3v7u\nklEIzDavu65I14XFme9fdc6+paz1yMX2KmXkWIg2RxtoQK5+NGPmLEKCQtGT8wxw\n+Zo7icSX4iAV3mkxbOFzuPSUOQGC4MeJBL++ev9BIlmiD9fN02f7tLvWX8nYfYMu\n4CRT3Iyx06a9bLkb8FI+dHyBdwKBgQDgXWe86mHjm1rqVu5UUD/ZGOHLrMqL0b9+\nsFjDDE/fhwWrsNa7LdxRhZgHKQwd4lJbjWyRCoH4JQoG0gELdy7qMGzWkSeaEq5i\nqGH5wf+gNQw7vfjPeEeD26WtDqlHt21q6n2tdJ5SmHWP6Amac05G+bsyfYMR9vYj\nLmuSqz6GbQKBgA+CylRBX4zgkbrWFNFmUIjWxL43sS/7lxeVCFA+dROj+9P3nC9s\nggDCZ1/K6IeidUuiwa/SsCQ2ccUf8nEenPIpno34sAOWr3i6OCu48vq4OE+RZVdz\nFXH34Xjj4YhPqY0HeYcYClzu4DjdudT8CXfSDrWqEOncGHQgzrQvtHZ7AoGBAJa/\nC1FJ5WVo30fuComJtaxm5GbVfO0+izxSvgCnCA92h9/YnB39bTc03HWLJcH6az1q\nIxS8i6CvOjJk7SDH/jSJPsdXldUWUialXdbSeq8olUSamk7DUMGOVZ2V6TTvUEvy\nq2hcn3d9ShfbXoBwkpprdlQxMlxiovP2X36XIhZtAoGAW6q6YuxJBfk3D88/9F7j\nRYlXrNPr4aY6e9/+oFR9nQKBSFkHh+FasGXF5xOHh7Er4L4fJktzoacl5sDbzgC3\nnlPGIgZBjdrtucsrZrt0OMrBtZ9eyHqLd2rz60Pbfv9gH0XSbGJT2yxMUcT/HWf8\nozkvhgZLC1jSplmOYnP0vzM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8jw52@findmydoctorapp.iam.gserviceaccount.com",
+  "client_id": "107497183768767031824",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8jw52%40findmydoctorapp.iam.gserviceaccount.com"
+}
